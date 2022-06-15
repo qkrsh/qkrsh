@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qkrsh
-- 👀 I’m interested in Front-End
+- 👀 I’m interested in Web Front-End
 - 🌱 I’m currently learning JS,React
 - 📫 How to reach me qkrtkdgus1111@naver.com
 
