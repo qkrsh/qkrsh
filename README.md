@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrsh&layout=compact)](https://github.com/shinplest)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=React&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/React-3776AB?style=flat-square&logo=React&logoColor=white"/></a>
